@@ -1,0 +1,2 @@
+db.sql is the sql file and Take A Bite.html is the main file.
+should run from localhost to see everything properly.
